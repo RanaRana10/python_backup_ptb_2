@@ -1,0 +1,23 @@
+# This is the file where i will have different packages with verstion list and some more information
+
+# This is for my bot project
+
+# This below i used in 25 April 2024 with bot api 7.2
+python-telegram-bot == 21.2
+
+# This is sqlalchemy to easy to use sqlite3 in my scripts, 
+SQLAlchemy == 2.0.30
+
+# Below is faker so that i can use it to generate fake information which looks like good and correct
+Faker == 25.8.0
+
+
+
+
+
+
+
+
+
+
+

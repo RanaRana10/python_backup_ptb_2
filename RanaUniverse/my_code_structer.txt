@@ -1,0 +1,10 @@
+
+
+This project is a checking purpose bot development,
+
+when a user will send /start it will t
+
+
+
+
+

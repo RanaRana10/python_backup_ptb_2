@@ -1,0 +1,29 @@
+
+
+This bot i will make with little learning purpose.
+
+
+
+1. when user will start this bot in different chat type it will send user different message.
+
+2. in /help section you will see available commands and so on.
+
+3.  main things is when a user will send a file it will increase the value of total file integer to +1, but with special caption with int (+x) then it will increase more.
+
+3. to increase the number of files just for special command to check and give permission to different users differently from the admin account.
+
+4. from normal users their settings are: they can set how many files count they can increase and decrease from their side.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
